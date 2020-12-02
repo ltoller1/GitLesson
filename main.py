@@ -11,12 +11,23 @@ else:
 
 
 def sort_list():
-    pass
+  pass
 
 def hello():
-    print("hello")
+  print("hello")
 
+def leo():
+  Leo = "yuh"
+  print(Leo)
+  
+
+def person():
+  print("Josh")
+  print("Johnny")
+  print("Allen")
+  print("Leo")
 # file --> * make changes to the file* --> commit the file 
 # next day --> make more file changes --> complete the function --> commit the file
 # take commited file --> push it to github
 
+# DOING SOMETHING
