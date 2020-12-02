@@ -13,6 +13,9 @@ else:
 def sort_list():
     pass
 
+def hello():
+    print("hello")
+
 # file --> * make changes to the file* --> commit the file 
 # next day --> make more file changes --> complete the function --> commit the file
 # take commited file --> push it to github
