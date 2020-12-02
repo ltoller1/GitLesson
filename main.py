@@ -20,6 +20,7 @@ def leo():
   Leo = "yuh"
   print(Leo)
   
+poo = 8
 
 def person():
   print("Josh")
