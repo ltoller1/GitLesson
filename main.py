@@ -24,8 +24,6 @@ def leo():
 def person():
   print("Josh")
   print("Johnny")
-  print("Allen")
-  print("Leo")
 # file --> * make changes to the file* --> commit the file 
 # next day --> make more file changes --> complete the function --> commit the file
 # take commited file --> push it to github
